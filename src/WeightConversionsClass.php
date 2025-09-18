@@ -2,6 +2,4 @@
 
 namespace Stevecreekmore\WeightConversions;
 
-class WeightConversionsClass
-{
-}
+class WeightConversionsClass {}
