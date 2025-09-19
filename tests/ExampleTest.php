@@ -7,7 +7,3 @@ it('can test', function () {
 it('can also do something else', function () {
     expect(true)->toBeTrue();
 });
-
-it('can do another thing', function () {
-    expect(true)->toBeTrue();
-});
